@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtcc_test", "libtcc_test\libtcc_test.vcxproj", "{2EE9FBAE-35B9-4F28-A185-FB371A1FC6CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "create_window_in_script", "create_window_in_script\create_window_in_script.vcxproj", "{DC36A44B-B454-4C55-8F8F-97EEE66168D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE9FBAE-35B9-4F28-A185-FB371A1FC6CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2EE9FBAE-35B9-4F28-A185-FB371A1FC6CB}.Debug|Win32.Build.0 = Debug|Win32
+		{2EE9FBAE-35B9-4F28-A185-FB371A1FC6CB}.Release|Win32.ActiveCfg = Release|Win32
+		{2EE9FBAE-35B9-4F28-A185-FB371A1FC6CB}.Release|Win32.Build.0 = Release|Win32
+		{DC36A44B-B454-4C55-8F8F-97EEE66168D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC36A44B-B454-4C55-8F8F-97EEE66168D8}.Debug|Win32.Build.0 = Debug|Win32
+		{DC36A44B-B454-4C55-8F8F-97EEE66168D8}.Release|Win32.ActiveCfg = Release|Win32
+		{DC36A44B-B454-4C55-8F8F-97EEE66168D8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
